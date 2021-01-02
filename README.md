@@ -1,5 +1,1 @@
 # DiceGame
-
----
-permalink: /index.html
----
