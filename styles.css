@@ -1,0 +1,79 @@
+body{
+
+  font-family: 'Redressed', cursive;
+  text-align: center;
+  color: lightgreen;
+  background-color: #233;
+  margin: 0;
+}
+
+h1{
+
+  margin: 0;
+}
+
+h3{
+
+  display: inline-block;
+  margin: 0 110px;
+}
+
+img{
+
+  margin: 2% 40px;
+}
+
+/* title */
+
+.title{
+
+  padding: 3% 15%;
+  font-size: 3rem;
+}
+
+/* game */
+
+.game{
+  padding: 5%;
+  margin: 0;
+  background-color: #344;
+}
+
+.roll-button{
+  font-family: 'Redressed', cursive;
+  border-radius: 25px;
+  background-color: #f33;
+  width: 350px;
+  height: 100px;
+  font-size: 3rem;
+}
+
+.roll-button:hover{
+  font-family: 'Redressed', cursive;
+  border-radius: 25px;
+  background-color: #f44;
+  width: 350px;
+  height: 100px;
+  font-size: 4rem;
+  text-shadow: 1px 1px 3px black;
+}
+/* footer */
+
+.counter{
+  padding: 1%;
+  background-color: #455;
+}
+.counter-one{
+  margin-right: 20px;
+  display: inline-block;
+}
+.counter-two{
+  margin-left: 20px;
+  display: inline-block;
+}
+
+.end{
+  font-family: sans-serif;
+  padding: 1%;
+  margin: 0;
+}
