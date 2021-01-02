@@ -57,6 +57,18 @@ img{
   font-size: 4rem;
   text-shadow: 1px 1px 3px black;
 }
+
+.roll-button:active{
+  border: none;
+  font-family: 'Redressed', cursive;
+  border-radius: 25px;
+  background-color: #444;
+  width: 350px;
+  height: 100px;
+  font-size: 4rem;
+  text-shadow: 1px 1px 3px black;
+}
+
 /* footer */
 
 .counter{
