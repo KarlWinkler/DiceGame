@@ -1,1 +1,5 @@
 # DiceGame
+
+---
+permalink: /index.html
+---
